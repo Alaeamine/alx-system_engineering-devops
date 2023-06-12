@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tail -n 1 iacat >> iacat
+echo tail -n 1 iacat >> iacta
